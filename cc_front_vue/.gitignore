@@ -10,7 +10,11 @@ lerna-debug.log*
 node_modules
 .DS_Store
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+#dist
+>>>>>>> Stashed changes
 =======
 #dist
 >>>>>>> Stashed changes
